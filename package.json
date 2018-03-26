@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mrchandoo/cordova-plugin-decimal-keyboard.git"
+    "url": "git+https://github.com/simanaitis/cordova-plugin-decimal-keyboard.git"
   },
   "keywords": [
     "cordova",
